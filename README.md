@@ -74,7 +74,7 @@ I'm currently finishing my HC in Mobile and Web Development, and I've been accep
 
 ## What's next
 
-Now working through OverTheWire Bandit (currently on hiatus because of university projects, but planning to restart soon), with TryHackMe next after that.
+Back on OverTheWire Bandit after a break for university projects. I'm currently on level 16 → 17, with my write-ups in [bandit-writeups.md](https://github.com/Mozamotala/security-homelab-infrastructure/blob/main/bandit-writeups.md). TryHackMe is next after that.
 
 I'm not lazy, and I'm not done.
 
