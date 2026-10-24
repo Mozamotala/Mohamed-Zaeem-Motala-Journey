@@ -66,7 +66,7 @@ Don't try to memorise every command — you will never remember all of them. Lea
 
 ### You are not too stupid for this
 
-If you don't get it after a week or a month — trust me, **I'm no genius**. I barely passed my matric. Whether that was from laziness, bad teaching, or me being too playful — it doesn't matter now. What matters is I'm working my way up.
+If you don't get it after a week or a month — trust me, **I'm no genius**. Matric wasn't my strongest moment. Whether that was from laziness, bad teaching, or me being too playful — it doesn't matter now. What matters is I'm working my way up.
 
 I'm currently finishing my HC in Mobile and Web Development, and I've been accepted into Security and Network Engineering.
 
